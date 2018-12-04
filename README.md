@@ -8,6 +8,6 @@
 #### [If, else, boolean](http://cpp.sh/5utn6)
 
 ## Online Compiler:
-[cppShell](https://cpp.sh)
+[cppShell](cpp.sh)
 ## Alternate Compiler:
 [onlinegdb](https://www.onlinegdb.com/online_c++_compiler)
