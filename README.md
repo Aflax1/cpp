@@ -1,9 +1,13 @@
 # Welcome to C++
-  Each lesson below will show some examples of how to use some aspect of C++. There will also be a comment on each lesson that asks you to create your own program that uses the aspects show, you can do this by completely writing new code or by modifying the code already written.
+  Each lesson below will show some examples of how to use some aspect of C++. There will also be a comment on some lessons that asks you to create your own program that uses the aspects show, you can do this by completely writing new code or by modifying the code already written. If you see something in the code that is not explained feel free to ask me about it.
 ## Lessons:
-#### [Intro, string, cin, cout](http://cpp.sh/9yfrr)
-#### [Int](http://cpp.sh/72i6c)
+#### [Intro, string, cin, cout](http://cpp.sh/8aq46)
+#### [Int](http://cpp.sh/5alrp)
 #### [Double](http://cpp.sh/3dc7h)
 #### [Number operations](http://cpp.sh/9oqjl)
 #### [If, else, boolean](http://cpp.sh/5utn6)
 
+## Online Compiler:
+[cppShell](https://cpp.sh)
+## Alternate Compiler:
+[onlinegdb](https://www.onlinegdb.com/online_c++_compiler)
