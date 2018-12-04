@@ -1,4 +1,5 @@
 # Welcome to C++
+## Lessons:
 #### [Intro, string, cin, cout](http://cpp.sh/9yfrr)
 #### [Int](http://cpp.sh/72i6c)
 #### [Double](http://cpp.sh/3dc7h)
