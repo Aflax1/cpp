@@ -6,6 +6,7 @@
 #### [Double](http://cpp.sh/3dc7h)
 #### [Number operations](http://cpp.sh/9oqjl)
 #### [If, else, boolean](http://cpp.sh/5utn6)
+### [Other Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
 ## Online Compiler:
 [cppShell](cpp.sh)
