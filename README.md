@@ -4,8 +4,9 @@
 #### [Intro, string, cin, cout](http://cpp.sh/8aq46)
 #### [Int](http://cpp.sh/5alrp)
 #### [Double](http://cpp.sh/3dc7h)
-#### [Number operations](http://cpp.sh/9oqjl)
-#### [If, else, boolean](http://cpp.sh/5utn6)
+#### [Number operations](http://cpp.sh/2gqyh)
+#### [If, else, boolean](http://cpp.sh/562i7)
+#### [Loops]()
 ### [Other Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
 ## Online Compiler:
