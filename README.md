@@ -6,9 +6,12 @@
 #### [Double](http://cpp.sh/3dc7h)
 #### [Number operations](http://cpp.sh/2gqyh)
 #### [If, else, boolean](http://cpp.sh/562i7)
-#### [Loops](http://cpp.sh/72j3h)
-#### [Matrices](http://cpp.sh/8k7y7)
+#### [Loops](http://cpp.sh/5fvfq)
+#### [Matrices](http://cpp.sh/8jsku)
 ### [Other Tutorials](http://www.cplusplus.com/doc/tutorial/)
+
+## Extra Challenges
+  
 
 ## Online Compiler:
 [cppShell](cpp.sh)
