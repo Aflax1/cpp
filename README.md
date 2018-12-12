@@ -7,7 +7,7 @@
 #### [Number operations](http://cpp.sh/2gqyh)
 #### [If, else, boolean](http://cpp.sh/562i7)
 #### [Loops](http://cpp.sh/72j3h)
-#### [Matrices](http://cpp.sh/6gcke)
+#### [Matrices](http://cpp.sh/8k7y7)
 ### [Other Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
 ## Online Compiler:
