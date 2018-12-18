@@ -11,7 +11,9 @@
 ### [Other Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
 ## Extra Challenges
-  
+# Make a choose your own adventure story/game
+# Make the game checkers
+# 
 
 ## Online Compiler:
 [cppShell](cpp.sh)
