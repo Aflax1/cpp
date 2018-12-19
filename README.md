@@ -13,7 +13,7 @@
 ## Extra Challenges
 #### Make a choose your own adventure story/game
 #### Make the game connect four
-#### Make whatever in C++
+#### Open ended coding in C++
 
 ## Online Compiler:
 [cppShell](cpp.sh)
